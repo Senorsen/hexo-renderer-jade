@@ -1,5 +1,5 @@
 {
-  "name": "hexo-renderer-jade",
+  "name": "hexo-renderer-jade-withconfig",
   "version": "0.3.0",
   "description": "Jade renderer plugin for Hexo",
   "main": "index",
